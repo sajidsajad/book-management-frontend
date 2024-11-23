@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you have to install packages first:
+
+### `npm install axios react-router-dom react-hook-form yup @mui/material @emotion/react @emotion/styled  jwt-decode`
+
+After packages installed, run:
 
 ### `npm start`
 
