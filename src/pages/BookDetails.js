@@ -142,7 +142,7 @@ const BookDetails = () => {
         </Box>
       )}
 
-      All Reviews with ratings
+      {/* All Reviews with ratings */}
         <Box sx={{ marginTop: 4 }}>
         <Typography variant="h5">Reviews</Typography>
         {book.reviews && book.reviews.length > 0 ? (
