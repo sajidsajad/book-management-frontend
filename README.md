@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🛠️ **Installation**
+### **Clone the Repository**
+```bash
+git clone https://github.com/sajidsajad/book-management-frontend.git
+cd book-management-frontend
+```
+
 ## Available Scripts
 
 In the project directory, you have to install packages first:
